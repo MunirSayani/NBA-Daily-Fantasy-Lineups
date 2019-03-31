@@ -255,5 +255,3 @@ paket-files/
 __pycache__/
 *.pyc
 
-# .vs folder
-.vs
